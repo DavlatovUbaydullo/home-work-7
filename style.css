@@ -1,0 +1,109 @@
+*{
+    margin: 0px;
+
+}
+.b1{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    position: sticky;top: 0;
+    background-color: white;
+
+}
+.e1{
+    font-weight: 100;
+    padding: 19px;
+}
+.q1{
+width: 80%;
+display: flex;
+margin: auto;
+justify-content: space-around;
+text-align: center;
+}
+.qq1{
+width: 23%;
+}
+.qq2{
+width: 23%;
+}
+.qq3{
+width: 23%;
+}
+.qq4{
+width: 23%;
+}
+img{
+    width: 100%;
+    height: 390px;
+}
+.e2{
+    font-weight: 100;
+}
+.dv{margin: auto;
+
+    width: 15%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.e3{
+    font-weight: 100;
+    padding: 7px 15px;
+}
+.e3:hover{
+    background-color: black;
+    color: white;
+}
+.e4{
+    font-weight: 100;
+    text-align: center;
+}
+.hd{
+    width: 55%;
+    margin: auto;
+}
+.qq9{
+    width: 100%;
+    height: 537px;
+}
+.e5{
+    font-weight: 100;
+    text-align: center;
+}
+.fv{
+    width: 78%;
+    margin: auto;
+}
+.e6{
+    text-align: center;
+}
+.cer{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.c1{
+width: 32%;
+}
+.c2{
+width: 32%;
+display: flex;
+justify-content: space-around;
+}
+.c3{
+width: 32%;
+}
+.e7{
+    font-weight: 100;
+}
+.qq10{
+    width: 55px;
+    height: 45px;
+    position: relative;top: 55px;
+    position: relative;right: 125px;
+}
+.cx{
+    position: relative;top: 55px;
+    position: relative;right: 125px;
+}
